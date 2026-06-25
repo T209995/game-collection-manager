@@ -40,7 +40,7 @@ Installation
 
 Clone this repository:
 
-git clone [https://github.com/YOUR_USERNAME/game-collection-manager.git](https://github.com/YOUR_USERNAME/game-collection-manager.git)
+git clone [https://github.com/T209995/game-collection-manager.git](https://github.com/T209995/game-collection-manager.git)
 cd game-collection-manager
 
 
