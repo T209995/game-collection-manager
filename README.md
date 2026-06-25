@@ -1,6 +1,6 @@
-🎮 Gestionnaire de Collection de Jeux Vidéo
+**🎮 Gestionnaire de Collection de Jeux Vidéo**
 
-✨ Fonctionnalités
+*✨ Fonctionnalités*
 
 Aucune dépendance externe : Conçu entièrement avec la bibliothèque standard de Python.
 
@@ -28,7 +28,7 @@ Une alternance de couleurs pour les lignes du tableau (effet zébré).
 
 Des en-têtes de tableau interactifs — cliquez sur n'importe quelle colonne (Titre, Plateforme, Genre, Année) pour trier la liste dynamiquement (propulsé par du JavaScript natif et exécutable hors-ligne).
 
-🚀 Comment l'exécuter
+**🚀 Comment l'exécuter**
 
 Prérequis
 
@@ -47,7 +47,7 @@ Lancez le script :
 python collection.py
 
 
-📂 Structure des Fichiers
+**📂 Structure des Fichiers**
 
 collection.py — Le script Python principal.
 
@@ -55,7 +55,7 @@ collection.json — La base de données JSON auto-générée stockant vos jeux.
 
 collection.html — La page web interactive et responsive auto-générée.
 
-🎨 Aperçu de l'export HTML interactif
+**🎨 Aperçu de l'export HTML interactif**
 
 La page HTML exportée est entièrement autonome et fonctionne à 100 % hors-ligne. Vous pouvez cliquer sur les en-têtes de colonnes pour trier instantanément vos jeux :
 
@@ -63,6 +63,6 @@ Le tri textuel gère proprement les accents français et la casse.
 
 Le tri par année s'effectue naturellement de manière chronologique.
 
-📝 Licence
+**📝 Licence**
 
 Ce projet est sous licence libre et disponible sous les termes de la Licence MIT.
