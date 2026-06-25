@@ -1,8 +1,8 @@
-🎮 Video Game Collection Manager
+**🎮 Video Game Collection Manager**
 
 A lightweight, dependency-free Command Line Interface (CLI) tool written in Python to manage and track your video game library. It automatically saves your collection in a local JSON file and allows you to export your list into a beautiful, responsive, and sortable HTML webpage.
 
-✨ Features
+*✨ Features*
 
 No External Dependencies: Built entirely with Python's standard library.
 
@@ -30,7 +30,7 @@ Alternating row colors (zebra striping).
 
 Interactive table headers—click any column (Title, Platform, Genre, Year) to sort dynamically (powered by native, offline JavaScript).
 
-🚀 How to Run
+**🚀 How to Run**
 
 Prerequisites
 
@@ -49,7 +49,7 @@ Run the script:
 python collection.py
 
 
-📂 File Structure
+**📂 File Structure**
 
 collection.py — The main executable Python script.
 
@@ -57,7 +57,7 @@ collection.json — Auto-generated database storing your games.
 
 collection.html — Auto-generated, responsive interactive webpage.
 
-🎨 Interactive HTML Export Preview
+**🎨 Interactive HTML Export Preview**
 
 The exported HTML page is fully self-contained and works 100% offline. You can click on the column headers to sort your collection instantly:
 
@@ -65,6 +65,6 @@ Text sorting handles French accents and special casing seamlessly.
 
 Year sorting is naturally ordered chronologically.
 
-📝 License
+**📝 License**
 
 This project is open-source and available under the MIT License.
